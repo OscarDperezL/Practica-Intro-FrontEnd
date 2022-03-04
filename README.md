@@ -9,6 +9,9 @@ Es un despacho de abogados que quiere automatizar las demandas de sus clientes, 
 
 1. [Toma de requerimientos](https://github.com/OscarDperezL/FrontEnd/blob/main/1.%20Requerimientos%20Abogabot.doc)
 2. [Buyer Persona](https://github.com/OscarDperezL/FrontEnd/blob/main/Buyer%20Persona.png)
-3. [Público objetivo](https://github.com/OscarDperezL/FrontEnd/blob/main/P%C3%BAblico%20Objetivo.jpg)
-4. [Wireframe UX](https://github.com/OscarDperezL/FrontEnd/blob/main/Wireframe.pdf)
-5. [UI](https://github.com/OscarDperezL/FrontEnd/blob/main/UI%20Abogabot.pdf)
+
+![Buyer Persona](https://user-images.githubusercontent.com/99143325/156839281-af4c7879-6c84-49d5-8078-f19ca05892c3.png)
+
+4. [Público objetivo](https://github.com/OscarDperezL/FrontEnd/blob/main/P%C3%BAblico%20Objetivo.jpg)
+5. [Wireframe UX](https://github.com/OscarDperezL/FrontEnd/blob/main/Wireframe.pdf)
+6. [UI](https://github.com/OscarDperezL/FrontEnd/blob/main/UI%20Abogabot.pdf)
